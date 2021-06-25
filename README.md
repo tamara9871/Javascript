@@ -1,2 +1,2 @@
-# Coursera_test
+# Coursera-test
 Coursera Coding Course
